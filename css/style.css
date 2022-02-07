@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: lightcoral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 10vh;
+}
+.container-car {
+    background-color: lightsalmon;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 90vh;
+}
+.card {
+    border: 2px solid tomato;
+    width: 350px;
+    height: 470px;
+}
+
+.img-car {
+    width: 346px;
+    height: auto;
+}
